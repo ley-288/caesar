@@ -1,0 +1,21 @@
+get input integer get_int.
+check to see its a useable integer.
+ if true. accept and move to line 6.
+ else if false pring 'usage'.
+ 
+Convert string to integer.
+
+ask for plaintext get_string.
+ use isalpha to detect letters.
+ use isupper to detect uppercase.
+ use islower to detect lowercase.
+ all booleans. T/F 2 possible outcomes.
+ 
+break down each value.
+convert from ASCII to alphabetical index.
+Encrypt ie, apply cypher formula. [x]
+convert back.
+ 
+print encrypted message. (printf("c%\n", Character, c+[x])
+
+strlen counts letters
